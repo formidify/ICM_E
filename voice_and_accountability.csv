@@ -1,0 +1,220 @@
+country_name,country_code,voice_and_accountability
+Afghanistan,AFG,-1.117505312
+Albania,ALB,0.157129541
+Algeria,DZA,-0.838549674
+American Samoa,ASM,..
+Andorra,AND,1.194394946
+Angola,AGO,-1.177190065
+Anguilla,AIA,..
+Antigua and Barbuda,ATG,0.594947338
+Argentina,ARG,0.411753088
+Armenia,ARM,-0.536270857
+Aruba,ABW,1.273855329
+Australia,AUS,1.355499983
+Austria,AUT,1.383440137
+Azerbaijan,AZE,-1.552303314
+"Bahamas, The",BHS,0.951407492
+Bahrain,BHR,-1.312996626
+Bangladesh,BGD,-0.512025654
+Barbados,BRB,1.0964607
+Belarus,BLR,-1.464999676
+Belgium,BEL,1.387346864
+Belize,BLZ,0.57808888
+Benin,BEN,0.29881677
+Bermuda,BMU,..
+Bhutan,BTN,-0.034825899
+Bolivia,BOL,-0.004678981
+Bosnia and Herzegovina,BIH,-0.098104686
+Botswana,BWA,0.436190367
+Brazil,BRA,0.458814234
+Brunei Darussalam,BRN,-0.754111826
+Bulgaria,BGR,0.432537317
+Burkina Faso,BFA,-0.112959318
+Burundi,BDI,-1.288651705
+Cabo Verde,CPV,0.957939088
+Cambodia,KHM,-1.122556925
+Cameroon,CMR,-0.954875112
+Canada,CAN,1.46702826
+Cayman Islands,CYM,0.469122529
+Central African Republic,CAF,-1.225461721
+Chad,TCD,-1.335111856
+Chile,CHL,1.004418135
+China,CHN,-1.660686493
+Colombia,COL,0.003917276
+Comoros,COM,-0.291163325
+"Congo, Dem. Rep.",COD,-1.303839207
+"Congo, Rep.",COG,-1.016824961
+Cook Islands,COK,..
+Costa Rica,CRI,1.151499629
+Cote d'Ivoire,CIV,-0.405193686
+Croatia,HRV,0.55546391
+Cuba,CUB,-1.558034897
+Cyprus,CYP,1.031512141
+Czech Republic,CZE,1.042688489
+Denmark,DNK,1.552722931
+Djibouti,DJI,-1.412069201
+Dominica,DMA,0.878824592
+Dominican Republic,DOM,0.154249504
+Ecuador,ECU,-0.211751625
+"Egypt, Arab Rep.",EGY,-1.184813142
+El Salvador,SLV,0.1523709
+Equatorial Guinea,GNQ,-2.00014019
+Eritrea,ERI,-2.106695175
+Estonia,EST,1.186782837
+Ethiopia,ETH,-1.298288226
+Fiji,FJI,0.027769133
+Finland,FIN,1.543483734
+France,FRA,1.206558228
+French Guiana,GUF,1.273855329
+Gabon,GAB,-0.894109726
+"Gambia, The",GMB,-1.45999217
+Georgia,GEO,0.274561763
+Germany,DEU,1.421901703
+Ghana,GHA,0.495470196
+Greece,GRC,0.651494741
+Greenland,GRL,1.273855329
+Grenada,GRD,0.806000173
+Guam,GUM,..
+Guatemala,GTM,-0.346392214
+Guinea,GIN,-0.857955515
+Guinea-Bissau,GNB,-0.74958986
+Guyana,GUY,0.184057221
+Haiti,HTI,-0.798660874
+Honduras,HND,-0.421736807
+"Hong Kong SAR, China",HKG,0.514768839
+Hungary,HUN,0.559930801
+Iceland,ISL,1.376409292
+India,IND,0.427834779
+Indonesia,IDN,0.184837207
+"Iran, Islamic Rep.",IRN,-1.513511062
+Iraq,IRQ,-1.127883315
+Ireland,IRL,1.334583402
+Israel,ISR,0.744865775
+Italy,ITA,1.034700036
+Jamaica,JAM,0.608724177
+Japan,JPN,0.98798573
+"Jersey, Channel Islands",JEY,1.273855329
+Jordan,JOR,-0.769348204
+Kazakhstan,KAZ,-1.163727641
+Kenya,KEN,-0.146467701
+Kiribati,KIR,0.978859186
+"Korea, Dem. People’s Rep.",PRK,-2.201836824
+"Korea, Rep.",KOR,0.630966604
+Kosovo,XKX,-0.150832325
+Kuwait,KWT,-0.663633525
+Kyrgyz Republic,KGZ,-0.404146224
+Lao PDR,LAO,-1.753418684
+Latvia,LVA,0.846473753
+Lebanon,LBN,-0.462531269
+Lesotho,LSO,0.117346577
+Liberia,LBR,-0.221026897
+Libya,LBY,-1.341562867
+Liechtenstein,LIE,1.38757658
+Lithuania,LTU,0.973841727
+Luxembourg,LUX,1.546707153
+"Macao SAR, China",MAC,-0.067366041
+"Macedonia, FYR",MKD,-0.181900084
+Madagascar,MDG,-0.378629118
+Malawi,MWI,-0.005267241
+Malaysia,MYS,-0.391462833
+Maldives,MDV,-0.517891109
+Mali,MLI,-0.204381034
+Malta,MLT,1.202726364
+Marshall Islands,MHL,1.178745627
+Martinique,MTQ,..
+Mauritania,MRT,-0.887845755
+Mauritius,MUS,0.822020531
+Mexico,MEX,-0.075364098
+"Micronesia, Fed. Sts.",FSM,1.134656787
+Moldova,MDA,0.028581616
+Monaco,MCO,1.017086744
+Mongolia,MNG,0.270232141
+Montenegro,MNE,0.144006342
+Morocco,MAR,-0.628278553
+Mozambique,MOZ,-0.270031184
+Myanmar,MMR,-1.218918324
+Namibia,NAM,0.571722925
+Nauru,NRU,0.546806276
+Nepal,NPL,-0.415425479
+Netherlands,NLD,1.561038971
+Netherlands Antilles,ANT,..
+New Zealand,NZL,1.554741502
+Nicaragua,NIC,-0.414739907
+Niger,NER,-0.212657124
+Nigeria,NGA,-0.366597325
+Niue,NIU,..
+Norway,NOR,1.68780148
+Oman,OMN,-1.061398745
+Pakistan,PAK,-0.722032487
+Palau,PLW,1.200789928
+Panama,PAN,0.558467448
+Papua New Guinea,PNG,0.044731397
+Paraguay,PRY,-0.069941297
+Peru,PER,0.227344468
+Philippines,PHL,0.147050843
+Poland,POL,1.039663672
+Portugal,PRT,1.128600121
+Puerto Rico,PRI,0.403686821
+Qatar,QAT,-1.144710541
+Reunion,REU,..
+Romania,ROU,0.486097127
+Russian Federation,RUS,-1.087691426
+Rwanda,RWA,-1.135152102
+Samoa,WSM,0.735778809
+San Marino,SMR,1.189767718
+Sao Tome and Principe,STP,0.280032039
+Saudi Arabia,SAU,-1.842594862
+Senegal,SEN,0.279269904
+Serbia,SRB,0.231035233
+Seychelles,SYC,0.080095395
+Sierra Leone,SLE,-0.264879495
+Singapore,SGP,-0.161821589
+Slovak Republic,SVK,0.965366244
+Slovenia,SVN,0.98675704
+Solomon Islands,SLB,0.284497738
+Somalia,SOM,-2.00137043
+South Africa,ZAF,0.654223859
+South Sudan,SSD,-1.594442725
+Spain,ESP,1.044758558
+Sri Lanka,LKA,-0.296132624
+St. Kitts and Nevis,KNA,0.847392201
+St. Lucia,LCA,1.022595406
+St. Vincent and the Grenadines,VCT,0.968703866
+Sudan,SDN,-1.773252249
+Suriname,SUR,0.411360741
+Swaziland,SWZ,-1.401209831
+Sweden,SWE,1.565205693
+Switzerland,CHE,1.558397055
+Syrian Arab Republic,SYR,-1.922374964
+"Taiwan, China",TWN,0.898425698
+Tajikistan,TJK,-1.569000721
+Tanzania,TZA,-0.229618371
+Thailand,THA,-0.969056308
+Timor-Leste,TLS,0.186130628
+Togo,TGO,-0.698528349
+Tonga,TON,0.661607802
+Trinidad and Tobago,TTO,0.480495065
+Tunisia,TUN,0.242010027
+Turkey,TUR,-0.36770758
+Turkmenistan,TKM,-2.23740983
+Tuvalu,TUV,1.068523526
+Uganda,UGA,-0.57071203
+Ukraine,UKR,-0.086803623
+United Arab Emirates,ARE,-1.112367868
+United Kingdom,GBR,1.297748923
+United States,USA,1.109744549
+Uruguay,URY,1.143324971
+Uzbekistan,UZB,-1.956031203
+Vanuatu,VUT,0.592932522
+"Venezuela, RB",VEN,-1.091030121
+Vietnam,VNM,-1.358792901
+Virgin Islands (U.S.),VIR,..
+West Bank and Gaza,PSE,-0.98578614
+"Yemen, Rep.",YEM,-1.523371577
+Zambia,ZMB,-0.070258692
+Zimbabwe,ZWE,-1.167998791
+,,
+,,
+,,
+Data from database: Worldwide Governance Indicators,,
+Last Updated: 10/19/2016,,
