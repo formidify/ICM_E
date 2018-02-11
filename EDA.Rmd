@@ -8,6 +8,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-data <- read.csv("merged.csv")
+merged <- read.csv("~/Desktop/ICM_E/merged.csv")
+merged$Conflict.Stock.Displacement[is.na(merged$Conflict.Stock.Displacement)] <- 0
+merged$Conflict.New.Displacements[is.na(merged$Conflict.New.Displacements)] <- 0
+merged$Disaster.New.Displacements[is.na(merged$Disaster.New.Displacements)] <- 0
+merged$displacement <- as.numeric(merged$Conflict.New.Displacements+ merged$Conflict.Stock.Displacement+merged$Disaster.New.Displacements)
+merged$GDP <- as.numeric(merged$GDP)
+
+small_merged <- (na.omit(merged[,c(1:9,11,15:18,31:32,45:47)]))
+cor_table <- cor(small_merged[,3:19])
+cor_table
 ```
 
+cor(merged)
+cov(merged)
+data <- scale(merged)
