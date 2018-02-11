@@ -18,6 +18,7 @@ merged$GDP <- as.numeric(merged$GDP)
 small_merged <- (na.omit(merged[,c(1:9,11,15:18,31:32,45:47)]))
 cor_table <- cor(small_merged[,3:19])
 cor_table
+write.csv(small_merged, "~/Desktop/ICM_E/small_merged.csv")
 ```
 
 cor(merged)
