@@ -101,7 +101,7 @@ Jordan,JOR,2.570398738
 Kazakhstan,KAZ,10.88824684
 Kenya,KEN,10.19081421
 Kiribati,KIR,2.469135802
-"Korea, Dem. People’s Rep.",PRK,19.51665144
+"Korea, Dem. PeopleÕs Rep.",PRK,19.51665144
 "Korea, Rep.",KOR,15.02359458
 Kosovo,XKX,..
 Kuwait,KWT,0.432098765
@@ -216,50 +216,3 @@ West Bank and Gaza,PSE,10.63122924
 "Yemen, Rep.",YEM,2.363770669
 Zambia,ZMB,5.111717941
 Zimbabwe,ZWE,10.33992504
-Arab World,ARB,4.369313548
-Caribbean small states,CSS,1.859948129
-Central Europe and the Baltics,CEB,33.6828723
-Early-demographic dividend,EAR,13.0669659
-East Asia & Pacific,EAS,10.07349426
-East Asia & Pacific (excluding high income),EAP,12.10725442
-East Asia & Pacific (IDA & IBRD countries),TEA,12.05043835
-Euro area,EMU,24.23768108
-Europe & Central Asia,ECS,12.31587224
-Europe & Central Asia (excluding high income),ECA,10.68346838
-Europe & Central Asia (IDA & IBRD countries),TEC,11.01497585
-European Union,EUU,25.34288418
-Fragile and conflict affected situations,FCS,6.158153139
-Heavily indebted poor countries (HIPC),HPC,8.344510453
-High income,HIC,10.05956745
-IBRD only,IBD,11.61992806
-IDA & IBRD total,IBT,11.31353055
-IDA blend,IDB,14.87185749
-IDA only,IDX,9.232568302
-IDA total,IDA,10.50530186
-Late-demographic dividend,LTE,9.702451789
-Latin America & Caribbean,LCN,8.754976338
-Latin America & Caribbean (excluding high income),LAC,8.987287144
-Latin America & the Caribbean (IDA & IBRD countries),TLA,8.654403175
-Least developed countries: UN classification,LDC,8.733353004
-Low & middle income,LMY,11.3357893
-Low income,LIC,9.524532587
-Lower middle income,LMC,17.43622809
-Middle East & North Africa,MEA,4.723223472
-Middle East & North Africa (excluding high income),MNA,5.689569138
-Middle East & North Africa (IDA & IBRD countries),TMN,5.6861241
-Middle income,MIC,11.63384543
-North America,NAC,10.73786606
-Not classified,INX,..
-OECD members,OED,11.24169953
-Other small states,OSS,2.077215396
-Pacific island small states,PSS,3.71005456
-Post-demographic dividend,PST,11.92113241
-Pre-demographic dividend,PRE,9.193269446
-Small states,SST,2.08393057
-South Asia,SAS,43.16183308
-South Asia (IDA & IBRD),TSA,43.16183308
-Sub-Saharan Africa,SSF,8.976406534
-Sub-Saharan Africa (excluding high income),SSA,8.976575014
-Sub-Saharan Africa (IDA & IBRD countries),TSS,8.976406534
-Upper middle income,UMC,9.325669666
-World,WLD,10.9912881
