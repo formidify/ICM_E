@@ -1,23 +1,23 @@
 country_name,country_code,GDP
 Afghanistan,AFG,19215562179
 Albania,ALB,11335264967
-Algeria,DZA,1.65874E+11
+Algeria,DZA,1.66E+11
 American Samoa,ASM,659000000
 Andorra,AND,2811489409
-Angola,AGO,1.02962E+11
+Angola,AGO,1.03E+11
 Antigua and Barbuda,ATG,1364863037
-Argentina,ARG,5.84711E+11
+Argentina,ARG,5.85E+11
 Armenia,ARM,10553337673
 Aruba,ABW,..
-Australia,AUS,1.34538E+12
-Austria,AUT,3.82066E+11
+Australia,AUS,1.35E+12
+Austria,AUT,3.82E+11
 Azerbaijan,AZE,53074370486
 "Bahamas, The",BHS,11240000000
 Bahrain,BHR,31125851064
-Bangladesh,BGD,1.95079E+11
+Bangladesh,BGD,1.95E+11
 Barbados,BRB,4584150000
 Belarus,BLR,56454734397
-Belgium,BEL,4.552E+11
+Belgium,BEL,4.55E+11
 Belize,BLZ,1742545900
 Benin,BEN,8290986804
 Bermuda,BMU,..
@@ -25,7 +25,7 @@ Bhutan,BTN,2059258653
 Bolivia,BOL,33000198263
 Bosnia and Herzegovina,BIH,16209702864
 Botswana,BWA,14430573505
-Brazil,BRA,1.80365E+12
+Brazil,BRA,1.80E+12
 British Virgin Islands,VGB,..
 Brunei Darussalam,BRN,12930394938
 Bulgaria,BGR,50199117547
@@ -34,14 +34,14 @@ Burundi,BDI,3066681387
 Cabo Verde,CPV,1574288668
 Cambodia,KHM,18049954289
 Cameroon,CMR,30916218544
-Canada,CAN,1.55281E+12
+Canada,CAN,1.55E+12
 Cayman Islands,CYM,..
 Central African Republic,CAF,1583776760
 Chad,TCD,10888798114
 Channel Islands,CHI,..
-Chile,CHL,2.42518E+11
-China,CHN,1.10647E+13
-Colombia,COL,2.9152E+11
+Chile,CHL,2.43E+11
+China,CHN,1.11E+13
+Colombia,COL,2.92E+11
 Comoros,COM,565689764.6
 "Congo, Dem. Rep.",COD,36188521107
 "Congo, Rep.",COG,8553154580
@@ -51,13 +51,13 @@ Croatia,HRV,48921877448
 Cuba,CUB,87132800000
 Curacao,CUW,..
 Cyprus,CYP,19676167240
-Czech Republic,CZE,1.8683E+11
-Denmark,DNK,3.01298E+11
+Czech Republic,CZE,1.87E+11
+Denmark,DNK,3.01E+11
 Djibouti,DJI,1727000000
 Dominica,DMA,535095846.3
 Dominican Republic,DOM,68102618092
 Ecuador,ECU,99290381000
-"Egypt, Arab Rep.",EGY,3.32698E+11
+"Egypt, Arab Rep.",EGY,3.33E+11
 El Salvador,SLV,26052340000
 Equatorial Guinea,GNQ,12597210658
 Eritrea,ERI,..
@@ -65,16 +65,16 @@ Estonia,EST,22566956982
 Ethiopia,ETH,64464547915
 Faroe Islands,FRO,2476746087
 Fiji,FJI,4391113415
-Finland,FIN,2.32439E+11
-France,FRA,2.43356E+12
+Finland,FIN,2.32E+11
+France,FRA,2.43E+12
 French Polynesia,PYF,..
 Gabon,GAB,14262032471
 "Gambia, The",GMB,907652509.6
 Georgia,GEO,13993546732
-Germany,DEU,3.37561E+12
+Germany,DEU,3.38E+12
 Ghana,GHA,37543361204
 Gibraltar,GIB,..
-Greece,GRC,1.95542E+11
+Greece,GRC,1.96E+11
 Greenland,GRL,2220380802
 Grenada,GRD,997007925.9
 Guam,GUM,5697000000
@@ -84,27 +84,27 @@ Guinea-Bissau,GNB,1036130507
 Guyana,GUY,3197225182
 Haiti,HTI,8724656126
 Honduras,HND,20844284855
-"Hong Kong SAR, China",HKG,3.09404E+11
-Hungary,HUN,1.22879E+11
+"Hong Kong SAR, China",HKG,3.09E+11
+Hungary,HUN,1.23E+11
 Iceland,ISL,16783714958
-India,IND,2.08987E+12
-Indonesia,IDN,8.61256E+11
-"Iran, Islamic Rep.",IRN,3.85874E+11
-Iraq,IRQ,1.7964E+11
-Ireland,IRL,2.90617E+11
+India,IND,2.09E+12
+Indonesia,IDN,8.61E+11
+"Iran, Islamic Rep.",IRN,3.86E+11
+Iraq,IRQ,1.80E+11
+Ireland,IRL,2.91E+11
 Isle of Man,IMN,6792417112
-Israel,ISR,2.99096E+11
-Italy,ITA,1.83235E+12
+Israel,ISR,2.99E+11
+Italy,ITA,1.83E+12
 Jamaica,JAM,14186886643
-Japan,JPN,4.38308E+12
+Japan,JPN,4.38E+12
 Jordan,JOR,37517410282
-Kazakhstan,KAZ,1.84388E+11
+Kazakhstan,KAZ,1.84E+11
 Kenya,KEN,63767539357
 Kiribati,KIR,169140538.7
-"Korea, Dem. People’s Rep.",PRK,..
-"Korea, Rep.",KOR,1.38276E+12
+"Korea, Dem. PeopleÕs Rep.",PRK,..
+"Korea, Rep.",KOR,1.38E+12
 Kosovo,XKX,6440501275
-Kuwait,KWT,1.14567E+11
+Kuwait,KWT,1.15E+11
 Kyrgyz Republic,KGZ,6678178340
 Lao PDR,LAO,14390395150
 Latvia,LVA,27009231911
@@ -119,65 +119,65 @@ Luxembourg,LUX,57784495265
 "Macedonia, FYR",MKD,10051659161
 Madagascar,MDG,9744243420
 Malawi,MWI,6373201160
-Malaysia,MYS,2.96434E+11
+Malaysia,MYS,2.96E+11
 Maldives,MDV,4006531188
 Mali,MLI,13100058100
 Malta,MLT,10285547954
 Marshall Islands,MHL,179697900
 Mauritania,MRT,4844223107
 Mauritius,MUS,11692287066
-Mexico,MEX,1.15226E+12
+Mexico,MEX,1.15E+12
 "Micronesia, Fed. Sts.",FSM,315179700
 Moldova,MDA,6512899540
 Monaco,MCO,..
 Mongolia,MNG,11749620620
 Montenegro,MNE,4052913386
-Morocco,MAR,1.01187E+11
+Morocco,MAR,1.01E+11
 Mozambique,MOZ,14798439527
 Myanmar,MMR,59687373958
 Namibia,NAM,11571141027
 Nauru,NRU,100459782.6
 Nepal,NPL,21410840909
-Netherlands,NLD,7.57999E+11
+Netherlands,NLD,7.58E+11
 New Caledonia,NCL,..
-New Zealand,NZL,1.75563E+11
+New Zealand,NZL,1.76E+11
 Nicaragua,NIC,12747741540
 Niger,NER,7217666361
-Nigeria,NGA,4.81066E+11
+Nigeria,NGA,4.81E+11
 Northern Mariana Islands,MNP,933000000
-Norway,NOR,3.86663E+11
+Norway,NOR,3.87E+11
 Oman,OMN,69831770871
-Pakistan,PAK,2.70556E+11
+Pakistan,PAK,2.71E+11
 Palau,PLW,297645400
 Panama,PAN,52132289700
 Papua New Guinea,PNG,21060901604
 Paraguay,PRY,27282581336
-Peru,PER,1.89212E+11
-Philippines,PHL,2.92774E+11
-Poland,POL,4.7728E+11
-Portugal,PRT,1.9942E+11
+Peru,PER,1.89E+11
+Philippines,PHL,2.93E+11
+Poland,POL,4.77E+11
+Portugal,PRT,1.99E+11
 Puerto Rico,PRI,..
-Qatar,QAT,1.64641E+11
-Romania,ROU,1.77911E+11
-Russian Federation,RUS,1.36586E+12
+Qatar,QAT,1.65E+11
+Romania,ROU,1.78E+11
+Russian Federation,RUS,1.37E+12
 Rwanda,RWA,8261034258
 Samoa,WSM,803985809.2
 San Marino,SMR,1569258068
 Sao Tome and Principe,STP,315880811.1
-Saudi Arabia,SAU,6.51757E+11
+Saudi Arabia,SAU,6.52E+11
 Senegal,SEN,13640668374
 Serbia,SRB,37160332465
 Seychelles,SYC,1437722206
 Sierra Leone,SLE,4251869870
-Singapore,SGP,2.96841E+11
+Singapore,SGP,2.97E+11
 Sint Maarten (Dutch part),SXM,..
 Slovak Republic,SVK,87501423882
 Slovenia,SVN,43072415017
 Solomon Islands,SLB,1129164719
 Somalia,SOM,5925000000
-South Africa,ZAF,3.17611E+11
+South Africa,ZAF,3.18E+11
 South Sudan,SSD,9015221096
-Spain,ESP,1.19779E+12
+Spain,ESP,1.20E+12
 Sri Lanka,LKA,80611989527
 St. Kitts and Nevis,KNA,878281507.8
 St. Lucia,LCA,1649142630
@@ -186,80 +186,33 @@ St. Vincent and the Grenadines,VCT,755205755.9
 Sudan,SDN,97156119150
 Suriname,SUR,4826587058
 Swaziland,SWZ,4020275298
-Sweden,SWE,4.97918E+11
-Switzerland,CHE,6.79289E+11
+Sweden,SWE,4.98E+11
+Switzerland,CHE,6.79E+11
 Syrian Arab Republic,SYR,..
 Tajikistan,TJK,7853450374
 Tanzania,TZA,45628320606
-Thailand,THA,3.99235E+11
+Thailand,THA,3.99E+11
 Timor-Leste,TLS,1606500000
 Togo,TGO,4087628276
 Tonga,TON,435438217.3
 Trinidad and Tobago,TTO,23559224762
 Tunisia,TUN,43156708809
-Turkey,TUR,8.59794E+11
+Turkey,TUR,8.60E+11
 Turkmenistan,TKM,35799628571
 Turks and Caicos Islands,TCA,..
 Tuvalu,TUV,32673277.74
 Uganda,UGA,27059447775
 Ukraine,UKR,91030959455
-United Arab Emirates,ARE,3.57949E+11
-United Kingdom,GBR,2.88557E+12
-United States,USA,1.81207E+13
+United Arab Emirates,ARE,3.58E+11
+United Kingdom,GBR,2.89E+12
+United States,USA,1.81E+13
 Uruguay,URY,53274304215
 Uzbekistan,UZB,66903804143
 Vanuatu,VUT,742432131
 "Venezuela, RB",VEN,..
-Vietnam,VNM,1.93241E+11
+Vietnam,VNM,1.93E+11
 Virgin Islands (U.S.),VIR,3765000000
 West Bank and Gaza,PSE,12673000000
 "Yemen, Rep.",YEM,37733919936
 Zambia,ZMB,21154394546
 Zimbabwe,ZWE,16304667807
-Arab World,ARB,2.5633E+12
-Caribbean small states,CSS,69516216247
-Central Europe and the Baltics,CEB,1.28557E+12
-Early-demographic dividend,EAR,1.0195E+13
-East Asia & Pacific,EAS,2.17669E+13
-East Asia & Pacific (excluding high income),EAP,1.32682E+13
-East Asia & Pacific (IDA & IBRD countries),TEA,1.32427E+13
-Euro area,EMU,1.16619E+13
-Europe & Central Asia,ECS,2.03646E+13
-Europe & Central Asia (excluding high income),ECA,3.12118E+12
-Europe & Central Asia (IDA & IBRD countries),TEC,3.59846E+12
-European Union,EUU,1.64107E+13
-Fragile and conflict affected situations,FCS,7.70044E+11
-Heavily indebted poor countries (HIPC),HPC,6.38733E+11
-High income,HIC,4.75775E+13
-IBRD only,IBD,2.58543E+13
-IDA & IBRD total,IBT,2.78767E+13
-IDA blend,IDB,9.84508E+11
-IDA only,IDX,1.03955E+12
-IDA total,IDA,2.03203E+12
-Late-demographic dividend,LTE,1.84565E+13
-Latin America & Caribbean,LCN,5.45921E+12
-Latin America & Caribbean (excluding high income),LAC,5.01259E+12
-Latin America & the Caribbean (IDA & IBRD countries),TLA,5.2478E+12
-Least developed countries: UN classification,LDC,9.26977E+11
-Low & middle income,LMY,2.71982E+13
-Low income,LIC,4.0239E+11
-Lower middle income,LMC,6.01705E+12
-Middle East & North Africa,MEA,3.14728E+12
-Middle East & North Africa (excluding high income),MNA,1.44198E+12
-Middle East & North Africa (IDA & IBRD countries),TMN,1.42909E+12
-Middle income,MIC,2.67961E+13
-North America,NAC,1.96794E+13
-Not classified,INX,..
-OECD members,OED,4.6659E+13
-Other small states,OSS,3.69948E+11
-Pacific island small states,PSS,8596930891
-Post-demographic dividend,PST,4.42428E+13
-Pre-demographic dividend,PRE,1.30076E+12
-Small states,SST,4.48061E+11
-South Asia,SAS,2.6828E+12
-South Asia (IDA & IBRD),TSA,2.6828E+12
-Sub-Saharan Africa,SSF,1.60587E+12
-Sub-Saharan Africa (excluding high income),SSA,1.60444E+12
-Sub-Saharan Africa (IDA & IBRD countries),TSS,1.60587E+12
-Upper middle income,UMC,2.07724E+13
-World,WLD,7.47577E+13
