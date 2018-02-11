@@ -1,1 +1,132 @@
-﻿Country	GHIAfghanistan	35.4Albania	13.2Algeria	8.7Angola	32.6Argentina	5Armenia	11.2Azerbaijan	10Bahrain	Bangladesh	27.3Belarus	5Benin	21.8Bhutan	Bolivia	16.9Bosnia & Herzegovina	5Botswana	23.1Brazil	5Bulgaria	8.5Burkina Faso	31.8Burundi	Cambodia	22.6Cameroon	24.2Central African Republic	46.9Chad	46.4Chile	5China	8.6Colombia	8.8Comoros	"Congo, Dem. Rep."	"Congo, Rep."	26.6Costa Rica	5Cªte d'Ivoire	26.3Croatia	5Cuba	5Djibouti	33.2Dominican Republic	10.8Ecuador	14"Egypt, Arab Rep."	13.5El Salvador	11.1Eritrea	Estonia	5Ethiopia	33.9Fiji	8.7Gabon	12.5"Gambia, The"	21.5Georgia	8.5Ghana	15.5Guatemala	21.1Guinea	28.8Guinea-Bissau	30.3Guyana	14.4Haiti	37.3Honduras	13.4India	29Indonesia	22.1"Iran, Islamic Rep."	6.8Iraq	22.2Jamaica	8.1Jordan	5.8Kazakhstan	8Kenya	24Kuwait	5Kyrgyz Republic	9.4Lao PDR	28.5Latvia	5Lebanon	6.4Lesotho	23.5Liberia	30.8Libya	Lithuania	5"Macedonia, FYR"	5.9Madagascar	36.3Malawi	27.3Malaysia	10.3Mali	29.6Mauritania	22.6Mauritius	12.9Mexico	7.3Moldova	9.1Mongolia	14.7Montenegro	5Morocco	9.5Mozambique	32.5Myanmar	23.5Namibia	31.8Nepal	22.2Nicaragua	13.6Niger	34.5Nigeria	32.8North Korea	28.8Oman	Pakistan	33.9Panama	9.6Papua New Guinea	Paraguay	10.5Peru	9.1Philippines	20.1Qatar	Romania	5.3Russian Federation	6.6Rwanda	30.3Saudi Arabia	5.1Senegal	23.2Serbia	7.1Sierra Leone	38.9Slovak Republic	5.2Somalia	South Africa	12.4South Sudan	Sri Lanka	25.5Sudan	Suriname	10.4Swaziland	26Syrian Arab Republic	Tajikistan	30.3Tanzania	28.7Thailand	11.9Timor-Leste	40.7Togo	23Trinidad & Tobago	8.3Tunisia	5.6Turkey	5.1Turkmenistan	12.9Uganda	27.6Ukraine	5Uruguay	5.7Uzbekistan	13.3"Venezuela, RB"	7Vietnam	14.7"Yemen, Rep."	34.2Zambia	41.1Zimbabwe	30.8
+Country,GHI
+Afghanistan,35.4
+Albania,13.2
+Algeria,8.7
+Angola,32.6
+Argentina,5
+Armenia,11.2
+Azerbaijan,10
+Bahrain,
+Bangladesh,27.3
+Belarus,5
+Benin,21.8
+Bhutan,
+Bolivia,16.9
+Bosnia & Herzegovina,5
+Botswana,23.1
+Brazil,5
+Bulgaria,8.5
+Burkina Faso,31.8
+Burundi,
+Cambodia,22.6
+Cameroon,24.2
+Central African Republic,46.9
+Chad,46.4
+Chile,5
+China,8.6
+Colombia,8.8
+Comoros,
+"Congo, Dem. Rep.",
+"Congo, Rep.",26.6
+Costa Rica,5
+C�te d'Ivoire,26.3
+Croatia,5
+Cuba,5
+Djibouti,33.2
+Dominican Republic,10.8
+Ecuador,14
+"Egypt, Arab Rep.",13.5
+El Salvador,11.1
+Eritrea,
+Estonia,5
+Ethiopia,33.9
+Fiji,8.7
+Gabon,12.5
+"Gambia, The",21.5
+Georgia,8.5
+Ghana,15.5
+Guatemala,21.1
+Guinea,28.8
+Guinea-Bissau,30.3
+Guyana,14.4
+Haiti,37.3
+Honduras,13.4
+India,29
+Indonesia,22.1
+"Iran, Islamic Rep.",6.8
+Iraq,22.2
+Jamaica,8.1
+Jordan,5.8
+Kazakhstan,8
+Kenya,24
+Kuwait,5
+Kyrgyz Republic,9.4
+Lao PDR,28.5
+Latvia,5
+Lebanon,6.4
+Lesotho,23.5
+Liberia,30.8
+Libya,
+Lithuania,5
+"Macedonia, FYR",5.9
+Madagascar,36.3
+Malawi,27.3
+Malaysia,10.3
+Mali,29.6
+Mauritania,22.6
+Mauritius,12.9
+Mexico,7.3
+Moldova,9.1
+Mongolia,14.7
+Montenegro,5
+Morocco,9.5
+Mozambique,32.5
+Myanmar,23.5
+Namibia,31.8
+Nepal,22.2
+Nicaragua,13.6
+Niger,34.5
+Nigeria,32.8
+North Korea,28.8
+Oman,
+Pakistan,33.9
+Panama,9.6
+Papua New Guinea,
+Paraguay,10.5
+Peru,9.1
+Philippines,20.1
+Qatar,
+Romania,5.3
+Russian Federation,6.6
+Rwanda,30.3
+Saudi Arabia,5.1
+Senegal,23.2
+Serbia,7.1
+Sierra Leone,38.9
+Slovak Republic,5.2
+Somalia,
+South Africa,12.4
+South Sudan,
+Sri Lanka,25.5
+Sudan,
+Suriname,10.4
+Swaziland,26
+Syrian Arab Republic,
+Tajikistan,30.3
+Tanzania,28.7
+Thailand,11.9
+Timor-Leste,40.7
+Togo,23
+Trinidad & Tobago,8.3
+Tunisia,5.6
+Turkey,5.1
+Turkmenistan,12.9
+Uganda,27.6
+Ukraine,5
+Uruguay,5.7
+Uzbekistan,13.3
+"Venezuela, RB",7
+Vietnam,14.7
+"Yemen, Rep.",34.2
+Zambia,41.1
+Zimbabwe,30.8
