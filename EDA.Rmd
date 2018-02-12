@@ -9,27 +9,47 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 merged <- read.csv("~/Desktop/ICM_E/merged.csv")
-merged$Conflict.Stock.Displacement[is.na(merged$Conflict.Stock.Displacement)] <- 0
-merged$Conflict.New.Displacements[is.na(merged$Conflict.New.Displacements)] <- 0
-merged$Disaster.New.Displacements[is.na(merged$Disaster.New.Displacements)] <- 0
-merged$displacement <- as.numeric(merged$Conflict.New.Displacements+ merged$Conflict.Stock.Displacement+merged$Disaster.New.Displacements)
-merged$GDP <- as.numeric(merged$GDP)
+merged$Conflict.Stock.Displacement[is.na(merged$Conflict.Stock.Displacement)] <- mean(na.omit(merged$Conflict.Stock.Displacement))
+merged$Conflict.New.Displacements[is.na(merged$Conflict.New.Displacements)] <- mean(na.omit(merged$Conflict.New.Displacements))
+merged$Disaster.New.Displacements[is.na(merged$Disaster.New.Displacements)] <- mean(na.omit(merged$Disaster.New.Displacements))
+# merged$displacement <- as.numeric(merged$Conflict.New.Displacements+ merged$Conflict.Stock.Displacement+merged$Disaster.New.Displacements)
 
-merged_151 <- (na.omit(merged[,c(1:9,11,15:18,31:32,45:47)]))
+
+merged_151 <- (na.omit(merged[,c(1:9,11:18,31:32,45:46)]))
 merged_151$X1 <- NULL
+merged_151$GDP <- as.numeric(merged_151$GDP)
 merged_151$fsi <- merged_151$C + merged_151$P+merged_151$S+merged_151$X+merged_151$E
+
+corruption <- read.csv("~/Desktop/ICM_E/raw_data_2014/control_corruption.csv")
+merged_151 <- left_join(merged_151, corruption[,c("code", "control_corruption")], by=c("code"="code"))
+
+write.csv(merged_151, "~/Desktop/ICM_E/merged_151.csv")
 cor_table <- cor(merged_151[,3:19])
 cor_table
-write.csv(merged_151, "~/Desktop/ICM_E/merged_151.csv")
+
 ```
 
 
 ```{r}
-model <- lm(fsi ~ GDP + elev + percent_arable_land + prevalence_undernourishment + government_effectiveness + political_stability + Annual_precip + rule_of_law + Annual_temp + voice_and_accountability + displacement,data=merged_151)
+# normalize
+merged_151$indicators <- rowSums(scale(merged_151[,c(8,11,14:16,18,20)]))
+cor(merged_151$indicators,merged_151$fsi)
+
+# model
+m_indicators <- lm(indicators ~ elev + percent_arable_land + Annual_precip + Annual_temp, data = merged_151)
+summary(m_indicators)
+
+m_fsi_norm <- lm(fsi ~ indicators + elev + percent_arable_land + Annual_precip + Annual_temp, data = merged_151)
+summary(m_fsi_norm)
+```
+
+
+```{r}
+model <- lm(fsi ~ GDP + elev + percent_arable_land + prevalence_undernourishment + government_effectiveness + political_stability + Annual_precip + rule_of_law + Annual_temp + voice_and_accountability,data=merged_151)
+model <- lm(political_stability ~ elev + percent_arable_land + Annual_precip + Annual_temp,data=merged_151)
 summary(model)
 qqnorm(resid(model))
 qqline(resid(model))
 plot(resid(model)~fitted(model))
-
 ```
 
